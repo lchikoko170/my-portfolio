@@ -1,0 +1,6 @@
+@import "./portfolio.css";
+@import "./admin.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
