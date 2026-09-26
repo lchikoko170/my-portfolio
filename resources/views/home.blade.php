@@ -21,7 +21,7 @@
         content="{{ $profile?->subtitle ?? 'Professional portfolio website' }}"
     >
 
-    @vite(['resources/css/app.css'])
+    @vite(['resources/css/app.css', 'resources/js/app.js'])
 
     <style>
         /* ============================================================
